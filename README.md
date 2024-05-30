@@ -56,7 +56,7 @@ Analyze usage for each user / bot on administrator dashboard. [detail](./docs/AD
 - Run deployment via following commands
 
 ```sh
-git clone https://github.com/aws-samples/bedrock-claude-chat.git
+git clone https://github.com/agarozzo/bedrock-claude-chat.git
 cd bedrock-claude-chat
 chmod +x bin.sh
 ./bin.sh
