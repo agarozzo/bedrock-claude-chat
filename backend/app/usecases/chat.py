@@ -377,7 +377,7 @@ def propose_conversation_title(
 - Title length must be from 15 to 20 characters.
 - Prefer more specific title than general. Your title should always be distinct from others.
 - Return the conversation title only. DO NOT include any strings other than the title.
-- Title must be in the same language as the conversation.
+- Title must be in English language.
 </rules>
 """
     # Fetch existing conversation
